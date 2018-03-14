@@ -1,0 +1,14 @@
+{
+  "name": "fortnite-stats-wrapper",
+  "version": "1.0.0",
+  "description": "Fortnite Statistics API Wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gavin Isgar",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
